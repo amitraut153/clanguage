@@ -9,4 +9,3 @@ void main(){
 	fun(20.5f);
 	fun(35.50);
 }
-
